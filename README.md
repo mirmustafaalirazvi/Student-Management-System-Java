@@ -28,3 +28,15 @@ It allows users to manage student records through a menu-driven interface.
 ---
 
 ## 📂 Project Structure
+
+## Screenshots
+
+### Add Student
+![Add Student](screenshots/add_student.png.png)
+
+### View Students
+![View Students](screenshots/view_student.png.png)
+
+### Search Student
+![Search Student](screenshots/search_student.png.png)
+
